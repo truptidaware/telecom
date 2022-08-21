@@ -1,0 +1,37 @@
+Project Sequence 1
+
+•	Project Name   :  CMOL – Circuit Move Over Length 
+•	Vertical 	     :  Telecom OSS –Provisioning & Activation [Inventory Management ]
+•	Client                KPN - Netherland
+•	Technology & Tool  : Python ,Django REST , Oracle ,GIT , Rest – Web service ,Pandas ,etl, Statistical Analysis
+•	Role – Python Data scientist
+Detail Project Overview and Workflow: 
+KPN Optical Networking is the latest Fiber optics /Voip technology Provider in Netherland. It will enable a  host  of  rich multimedia services  such  as  video  calling,  video  on  demand,  and provide a richer experience for existing services such as  mobile  internet, mobile TV and MMS, Broadband , Fiber optics technology Nextgen Networks operate on technology called High Speed Downlink Packet Access (HSPA). Data is transmitted many times faster than earlier 5G networks. This basically means that in addition to the earlier audio, graphics, and text, you can now send and receive video content too.
+Ethernet is widely applied as carrier-class access technology. With the addition of IP and tunneling capabilities to packet edge devices, a variety of new business services can be offered. Our FSP 150 packet edge and aggregation transport solution enables you to deliver MEF-certified Carrier Ethernet services and IP connectivity with carrier-class performance, 100G scalability and highest security in a most resilient way. Whether you’re offering mobile backhaul, business services, or wholesale access, our FSP 150 family is the market’s first ubiquitous metro access platform that enables profitable and differentiated connectivity services scaling from Mbit/s to 100Gbit/s. Designed for demarcation, aggregation and hosting of software appliances, our solution is optimized for cost-efficient transport over fiber, copper and TDM networks
+This project deals with 2 application.
+a .NPCP – Network Planning Configuration Platform
+b. ESRP –Exchange server Records Platform
+End user should able to add and delete the shelf, Rack and cards from Exchange Data (ESRP). In the meantime ESRP Generate request XML and send to NPCP. NPCP execute the request XML and revert to ESRP with Response XML. When user operate any changes in ESRP component then same reflects in NPCP component.
+
+Task Handled:									
+•	Understand the FRS document and analyse the requirement, Analyzed system requirements specifications and also in client interaction during requirements specifications.
+•	Designed the front end of the application using Python , HTML, CSS, AJAX, JSON and JQuery. Worked on backend of the application, mainly using Active Records.
+•	Involved in analysis and design of the application features, Designed and developed communication between client and server using Secured Web services.
+•	Created UI using JavaScript and HTML5/CSS, Developed and tested many features for dashboard using Python, Java, Bootstrap, CSS, JavaScript and JQuery.
+•	Writing backend programming in Python, Used JavaScript and XML to update a portion of a webpage.
+•	Develop consumer based features and applications using Python and Django in test driven Development and pair based programming.
+•	Performed Unit testing, Integration Testing, GUI and web application testing using Rspec.
+•	Implemented user interface guidelines and standards throughout the development and maintenance of the website using the HTML, CSS, JavaScript and JQuery, Worked on Jenkins continuous integration tool for deployment of project.
+•	Worked on changes to open stack and AWS to accommodate large-scale data center deployment.
+•	Performed Unit testing, Integration Testing, GUI and web application testing using Rspec.
+•	Implemented user interface guidelines and standards throughout the development and maintenance of the website using the HTML, CSS, JavaScript and JQuery.
+•	Worked on Jenkins continuous integration tool for deployment of project, Worked on changes to open stack and AWS to accommodate large-scale data center deployment.
+•	Used advanced packages like Mock, patch and beautiful soup (b4) to perform unit testing, Worked on translation of web pages to different languages as per client requirements.
+•	Updated the client admin tool to have the new features like support for internalization, support for customer service and etc.
+•	Implemented responsive vector maps and charts on web pages using the data from MongoDB .
+•	Collaborate with Product Management and User Experience experts regarding product definition, schedule, scope and project-related decisions, Manage, collaborate and coordinate the work of an offshore development team.
+•	Worked on rebranding the existing web pages to clients according to the type of deployment.
+•	Worked on updating the existing clip board to have the new features as per the client requirements, Used many regular expressions in order to match the pattern with the existing one.
+•	Skilled in using collections in Python for manipulating and looping through different user defined objects, Work with team of developers on python applications for RISK management.
+•	Taken part in entire lifecycle of the projects including Design, Development, and Deployment, Testing and Implementation and support, improved code reuse and performance by making effective use of various design patterns.
+•	Documented the design solutions and created stories for client requirements.
